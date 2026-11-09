@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=CouchCam
+GenericName=Camera Viewer
+Comment=Live view of your Wyze cameras
+Exec=couchcam
+Icon=couchcam
+Terminal=false
+Categories=AudioVideo;Video;Security;
+Keywords=wyze;camera;cctv;rtsp;
+StartupWMClass=app.couchcam.Linux

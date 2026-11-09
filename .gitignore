@@ -1,0 +1,16 @@
+# Local / machine-specific
+local.properties
+keystore.properties
+*.jks
+*.keystore
+.env
+*.env
+couchcam-server-settings.tar.gz
+
+# Build output
+android-tv/.gradle/
+android-tv/build/
+android-tv/app/build/
+android-tv/dist/
+__pycache__/
+*.pyc
