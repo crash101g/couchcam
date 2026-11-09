@@ -34,3 +34,7 @@ You'll need your own Wyze account (plus a free Wyze API ID/key) and, optionally,
 Credentials are stored locally on your machine only. Don't expose the server's ports to the internet.
 
 Not affiliated with Wyze or Ring.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
